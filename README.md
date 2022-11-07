@@ -7,9 +7,8 @@ WindowsOS & Tweaking Enthusiast
 I am a enthusiast when it comes to hardware and as well as digital products such as WindowsOS and its specialty.
 
 * 🌍  I'm based in Manila, Philippines
-* 🧠  I'm learning how to aim better
-* 🤝  I'm open to collaborating on HTML & JS
-* ⚡  I love FPS games & aimtrainers
+* 🧠  I'm making a guide about optimization
+* ⚡  I love to tweak WindowsOS
 
 ### Skills
 
